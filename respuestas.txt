@@ -1,0 +1,1 @@
+2) f) No se puede ver el archivo tp2_1_2.c debido a que este fue trabajado en la branch Opcion_2 y no en main, que es donde estamos parados ahora.
