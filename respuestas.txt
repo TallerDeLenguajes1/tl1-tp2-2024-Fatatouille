@@ -1,1 +1,6 @@
-2) f) No se puede ver el archivo tp2_1_2.c debido a que este fue trabajado en la branch Opcion_2 y no en main, que es donde estamos parados ahora.
+2) f)
+No se puede ver el archivo tp2_1_2.c debido a que este fue trabajado en la branch Opcion_2 y no en main, que es donde estamos parados ahora.
+
+La diferencia que podemos notar en la representación gráfica del historial, es cómo se mueven las ramas según los commit realizados, desprendiéndose a un lado cuando trabajamos en Opcion_2.
+
+El último cambio, es que se unen todas las ramas en gráficos debido al merge.
