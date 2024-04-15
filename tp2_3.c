@@ -13,7 +13,7 @@ int main()
     {
         for (j = 0; j < M; j++)
         {
-            mt[i][j] = 1 + rand() % 100;
+            *p = 1 + rand() % 100;
             printf("%d ", *p);
             p++;
         }
